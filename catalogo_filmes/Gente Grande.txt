@@ -1,0 +1,15 @@
+{
+    "titulo": "Gente Grande",
+    "atorPrincipal": "Adam Sandler e Kevin James",
+    "duracao": "1h 42m",
+    "anoLancamento": "2010",
+    "paisOrigem": "Estados Unidos da América",
+    "genero": "COMÉDIA",
+    "fichaTecnica": {
+        "direcao": "Dennis Dugan",
+        "elenco": "Adam Sandler, Kevin James, Cris Rocky, David Spade",
+        "roteiro": "Adam Sandler",
+        "classificacao": "Recomendado para maiores de 12 anos",
+        "producao": "Adam Sandler"
+    }
+}
